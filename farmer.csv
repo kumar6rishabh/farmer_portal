@@ -1,0 +1,901 @@
+month,state,farmer_name,crop,produce
+Jan,Bihar,0,rice,0.2931868908048719
+Jan,Bihar,0,wheat,0.48741935366669153
+Jan,Bihar,0,dal,0.49868031538739155
+Jan,Maharashtra,0,rice,0.3004847546094705
+Jan,Maharashtra,0,wheat,0.3567496776138627
+Jan,Maharashtra,0,dal,0.2877103192091175
+Jan,Tamil Nadu,0,rice,0.6355105279413086
+Jan,Tamil Nadu,0,wheat,0.37230377037463935
+Jan,Tamil Nadu,0,dal,0.13973199269310682
+Jan,Rajasthan,0,rice,0.7634268016790008
+Jan,Rajasthan,0,wheat,0.696305087893548
+Jan,Rajasthan,0,dal,0.2686564337734236
+Jan,Meghalaya,0,rice,0.6765233017268546
+Jan,Meghalaya,0,wheat,0.6830870229272018
+Jan,Meghalaya,0,dal,0.5874610758540427
+Feb,Bihar,0,rice,0.1999744604568414
+Feb,Bihar,0,wheat,0.3327878483255602
+Feb,Bihar,0,dal,0.28900766097791447
+Feb,Maharashtra,0,rice,0.7016743567769278
+Feb,Maharashtra,0,wheat,0.5360157717338975
+Feb,Maharashtra,0,dal,0.7340652512499658
+Feb,Tamil Nadu,0,rice,0.8216502319275696
+Feb,Tamil Nadu,0,wheat,0.266268949699398
+Feb,Tamil Nadu,0,dal,0.5135518717772766
+Feb,Rajasthan,0,rice,0.7815866771290605
+Feb,Rajasthan,0,wheat,0.703852667324527
+Feb,Rajasthan,0,dal,0.44585079508115266
+Feb,Meghalaya,0,rice,0.060659317979727
+Feb,Meghalaya,0,wheat,0.7716243074314518
+Feb,Meghalaya,0,dal,0.42946692319690727
+Mar,Bihar,0,rice,0.5280549821962113
+Mar,Bihar,0,wheat,0.5070891689455527
+Mar,Bihar,0,dal,0.12513714577400822
+Mar,Maharashtra,0,rice,0.5863809220035999
+Mar,Maharashtra,0,wheat,0.7815896282919796
+Mar,Maharashtra,0,dal,0.6111779231354281
+Mar,Tamil Nadu,0,rice,0.14260295865185463
+Mar,Tamil Nadu,0,wheat,0.3611539691056217
+Mar,Tamil Nadu,0,dal,0.3494128693159056
+Mar,Rajasthan,0,rice,0.6982141399951706
+Mar,Rajasthan,0,wheat,0.7102106561506984
+Mar,Rajasthan,0,dal,0.5617817939253296
+Mar,Meghalaya,0,rice,0.4665524569227375
+Mar,Meghalaya,0,wheat,0.4299669032851251
+Mar,Meghalaya,0,dal,0.3391740802262149
+Apr,Bihar,0,rice,0.156852448397985
+Apr,Bihar,0,wheat,0.27544394684695234
+Apr,Bihar,0,dal,0.5580908233502789
+Apr,Maharashtra,0,rice,0.5674732665944364
+Apr,Maharashtra,0,wheat,0.4641291231294567
+Apr,Maharashtra,0,dal,0.6195375417143559
+Apr,Tamil Nadu,0,rice,0.3662802092952846
+Apr,Tamil Nadu,0,wheat,0.7144887480821396
+Apr,Tamil Nadu,0,dal,0.27558045669744696
+Apr,Rajasthan,0,rice,0.31237214714092953
+Apr,Rajasthan,0,wheat,0.696520492181089
+Apr,Rajasthan,0,dal,0.8740718552675263
+Apr,Meghalaya,0,rice,0.2830415989358861
+Apr,Meghalaya,0,wheat,0.38801742025803565
+Apr,Meghalaya,0,dal,0.12633765191270022
+May,Bihar,0,rice,0.4380012832960373
+May,Bihar,0,wheat,0.8459275072424413
+May,Bihar,0,dal,0.4564427971258799
+May,Maharashtra,0,rice,0.4444993035337378
+May,Maharashtra,0,wheat,0.5480067047374121
+May,Maharashtra,0,dal,0.5768351678425993
+May,Tamil Nadu,0,rice,0.6514304954592883
+May,Tamil Nadu,0,wheat,0.6053203075356334
+May,Tamil Nadu,0,dal,0.3810897075373269
+May,Rajasthan,0,rice,0.31725938472367116
+May,Rajasthan,0,wheat,0.1460355989849868
+May,Rajasthan,0,dal,0.3990725488638276
+May,Meghalaya,0,rice,0.5910921404094418
+May,Meghalaya,0,wheat,0.8049195351834154
+May,Meghalaya,0,dal,0.4031867765217658
+Jun,Bihar,0,rice,0.3763696465530873
+Jun,Bihar,0,wheat,0.8654121791558391
+Jun,Bihar,0,dal,0.5941733403335749
+Jun,Maharashtra,0,rice,0.511600680060939
+Jun,Maharashtra,0,wheat,0.7148385114028611
+Jun,Maharashtra,0,dal,0.5675988306600557
+Jun,Tamil Nadu,0,rice,0.2659871557422668
+Jun,Tamil Nadu,0,wheat,0.15346495767288185
+Jun,Tamil Nadu,0,dal,0.7491484357927753
+Jun,Rajasthan,0,rice,0.6653286927770604
+Jun,Rajasthan,0,wheat,0.5221910528881363
+Jun,Rajasthan,0,dal,0.7355309682005124
+Jun,Meghalaya,0,rice,0.6937556421469365
+Jun,Meghalaya,0,wheat,0.36325234332162065
+Jun,Meghalaya,0,dal,0.570436229808928
+Jul,Bihar,0,rice,0.3832721043459963
+Jul,Bihar,0,wheat,0.7973131095285306
+Jul,Bihar,0,dal,0.536497381848682
+Jul,Maharashtra,0,rice,0.717810444961385
+Jul,Maharashtra,0,wheat,0.32228415134370025
+Jul,Maharashtra,0,dal,0.48614460144483446
+Jul,Tamil Nadu,0,rice,0.813886317525759
+Jul,Tamil Nadu,0,wheat,0.6691024875679661
+Jul,Tamil Nadu,0,dal,0.8690903717316386
+Jul,Rajasthan,0,rice,0.5722267053318523
+Jul,Rajasthan,0,wheat,0.5800919461662705
+Jul,Rajasthan,0,dal,0.2525332574493492
+Jul,Meghalaya,0,rice,0.5860289194592063
+Jul,Meghalaya,0,wheat,0.30832893754507157
+Jul,Meghalaya,0,dal,0.7605804550965223
+Aug,Bihar,0,rice,0.27995180733818825
+Aug,Bihar,0,wheat,0.5890760038671718
+Aug,Bihar,0,dal,0.5871628893008596
+Aug,Maharashtra,0,rice,0.742987723762758
+Aug,Maharashtra,0,wheat,0.616103584016781
+Aug,Maharashtra,0,dal,0.2386791960755409
+Aug,Tamil Nadu,0,rice,0.24618163114534658
+Aug,Tamil Nadu,0,wheat,0.300252619399405
+Aug,Tamil Nadu,0,dal,0.3790665055101656
+Aug,Rajasthan,0,rice,0.24239797593780327
+Aug,Rajasthan,0,wheat,0.6920412660449992
+Aug,Rajasthan,0,dal,0.5452211898286805
+Aug,Meghalaya,0,rice,0.4391711778912582
+Aug,Meghalaya,0,wheat,0.3368113573981586
+Aug,Meghalaya,0,dal,0.2919267107547095
+Sep,Bihar,0,rice,0.7081076978839441
+Sep,Bihar,0,wheat,0.5758263457501
+Sep,Bihar,0,dal,0.40101841398300164
+Sep,Maharashtra,0,rice,0.759904763594357
+Sep,Maharashtra,0,wheat,0.4657113277607564
+Sep,Maharashtra,0,dal,0.6331543823714617
+Sep,Tamil Nadu,0,rice,0.6385307893081819
+Sep,Tamil Nadu,0,wheat,0.3201019462603182
+Sep,Tamil Nadu,0,dal,0.15129135918718245
+Sep,Rajasthan,0,rice,0.36704235779114325
+Sep,Rajasthan,0,wheat,0.5770288959451683
+Sep,Rajasthan,0,dal,0.5796320994029984
+Sep,Meghalaya,0,rice,0.42786571524985356
+Sep,Meghalaya,0,wheat,0.33835070295438674
+Sep,Meghalaya,0,dal,0.2625857909137055
+Oct,Bihar,0,rice,0.7303781926607057
+Oct,Bihar,0,wheat,0.14288552519221098
+Oct,Bihar,0,dal,0.6691492480547352
+Oct,Maharashtra,0,rice,0.8604974023102734
+Oct,Maharashtra,0,wheat,0.6312387539618395
+Oct,Maharashtra,0,dal,0.46473192105891403
+Oct,Tamil Nadu,0,rice,0.48449865543699866
+Oct,Tamil Nadu,0,wheat,0.22127130207218862
+Oct,Tamil Nadu,0,dal,0.37460905839004016
+Oct,Rajasthan,0,rice,0.37489088100246115
+Oct,Rajasthan,0,wheat,0.5915558851215091
+Oct,Rajasthan,0,dal,0.399797162155313
+Oct,Meghalaya,0,rice,0.14959099057834999
+Oct,Meghalaya,0,wheat,0.2988982274507516
+Oct,Meghalaya,0,dal,0.4330880255392097
+Nov,Bihar,0,rice,0.3563589319545981
+Nov,Bihar,0,wheat,0.39034407378193287
+Nov,Bihar,0,dal,0.35326382873748025
+Nov,Maharashtra,0,rice,0.6419682924074052
+Nov,Maharashtra,0,wheat,0.6535031550079896
+Nov,Maharashtra,0,dal,0.3424947386299323
+Nov,Tamil Nadu,0,rice,0.42573916758980257
+Nov,Tamil Nadu,0,wheat,0.7668636689725233
+Nov,Tamil Nadu,0,dal,0.8930440010696316
+Nov,Rajasthan,0,rice,0.7309430964262361
+Nov,Rajasthan,0,wheat,0.25107359872998314
+Nov,Rajasthan,0,dal,0.3063491171827123
+Nov,Meghalaya,0,rice,0.48997033745535307
+Nov,Meghalaya,0,wheat,0.3751716932365519
+Nov,Meghalaya,0,dal,0.5820412029797368
+Dec,Bihar,0,rice,0.3322625525496703
+Dec,Bihar,0,wheat,0.1998370482253614
+Dec,Bihar,0,dal,0.6327798761087985
+Dec,Maharashtra,0,rice,0.30839006211147324
+Dec,Maharashtra,0,wheat,0.4311997449978159
+Dec,Maharashtra,0,dal,0.20644204452541307
+Dec,Tamil Nadu,0,rice,0.5777380429799445
+Dec,Tamil Nadu,0,wheat,0.33938838149608946
+Dec,Tamil Nadu,0,dal,0.7929113363704525
+Dec,Rajasthan,0,rice,0.7127874127163899
+Dec,Rajasthan,0,wheat,0.2165897253124999
+Dec,Rajasthan,0,dal,0.32111117727416677
+Dec,Meghalaya,0,rice,0.27501616265735807
+Dec,Meghalaya,0,wheat,0.6283194929220292
+Dec,Meghalaya,0,dal,0.450207955554679
+Jan,Bihar,1,rice,0.7122618265523645
+Jan,Bihar,1,wheat,0.28418092313488597
+Jan,Bihar,1,dal,0.8968864221221453
+Jan,Maharashtra,1,rice,0.5894770919968744
+Jan,Maharashtra,1,wheat,0.5680615402805171
+Jan,Maharashtra,1,dal,0.7028847155729914
+Jan,Tamil Nadu,1,rice,0.9139739472518638
+Jan,Tamil Nadu,1,wheat,0.6223554049749062
+Jan,Tamil Nadu,1,dal,0.6150446810635146
+Jan,Rajasthan,1,rice,0.558066405519918
+Jan,Rajasthan,1,wheat,0.7569593204448488
+Jan,Rajasthan,1,dal,0.1625427462364385
+Jan,Meghalaya,1,rice,0.4476942332403304
+Jan,Meghalaya,1,wheat,0.5449321760569297
+Jan,Meghalaya,1,dal,0.726564100247
+Feb,Bihar,1,rice,0.43266599903884745
+Feb,Bihar,1,wheat,0.44836850641319254
+Feb,Bihar,1,dal,0.38672853012029623
+Feb,Maharashtra,1,rice,0.44325383346095765
+Feb,Maharashtra,1,wheat,0.2961404645132253
+Feb,Maharashtra,1,dal,0.44014370341169023
+Feb,Tamil Nadu,1,rice,0.8070687229274636
+Feb,Tamil Nadu,1,wheat,0.6133684126787595
+Feb,Tamil Nadu,1,dal,0.28263558212858997
+Feb,Rajasthan,1,rice,0.7249155618290294
+Feb,Rajasthan,1,wheat,0.6490282951929832
+Feb,Rajasthan,1,dal,0.4810455552799215
+Feb,Meghalaya,1,rice,0.38019024097689674
+Feb,Meghalaya,1,wheat,0.5507837875901744
+Feb,Meghalaya,1,dal,0.7107804336642173
+Mar,Bihar,1,rice,0.560354577440882
+Mar,Bihar,1,wheat,0.3421853921200277
+Mar,Bihar,1,dal,0.6672669550179078
+Mar,Maharashtra,1,rice,0.6634541345480671
+Mar,Maharashtra,1,wheat,0.3625557467547114
+Mar,Maharashtra,1,dal,0.6193323127025586
+Mar,Tamil Nadu,1,rice,0.3880542956391777
+Mar,Tamil Nadu,1,wheat,0.3385206679135553
+Mar,Tamil Nadu,1,dal,0.6080939875699846
+Mar,Rajasthan,1,rice,0.18084659806084133
+Mar,Rajasthan,1,wheat,0.31438117667959836
+Mar,Rajasthan,1,dal,0.27490060492611884
+Mar,Meghalaya,1,rice,0.5308528472381191
+Mar,Meghalaya,1,wheat,0.2508890552272922
+Mar,Meghalaya,1,dal,0.5079049960617795
+Apr,Bihar,1,rice,0.21878971418791232
+Apr,Bihar,1,wheat,0.2648984604089127
+Apr,Bihar,1,dal,0.5302080053425856
+Apr,Maharashtra,1,rice,0.25434999655561313
+Apr,Maharashtra,1,wheat,0.7286642279473524
+Apr,Maharashtra,1,dal,0.6126110248195794
+Apr,Tamil Nadu,1,rice,0.4070067963092728
+Apr,Tamil Nadu,1,wheat,0.3965635602737721
+Apr,Tamil Nadu,1,dal,0.6301944402756628
+Apr,Rajasthan,1,rice,0.3770297754470002
+Apr,Rajasthan,1,wheat,0.28970621686707293
+Apr,Rajasthan,1,dal,0.2575709520451258
+Apr,Meghalaya,1,rice,0.5776003898078523
+Apr,Meghalaya,1,wheat,0.1551761030464058
+Apr,Meghalaya,1,dal,0.3010307861352961
+May,Bihar,1,rice,0.7860278774136695
+May,Bihar,1,wheat,0.6291525058677401
+May,Bihar,1,dal,0.7989308100699586
+May,Maharashtra,1,rice,0.2298723472063697
+May,Maharashtra,1,wheat,0.5063166150922555
+May,Maharashtra,1,dal,0.6044411352221544
+May,Tamil Nadu,1,rice,0.3264617577155383
+May,Tamil Nadu,1,wheat,0.44540771114446676
+May,Tamil Nadu,1,dal,0.3944602829068924
+May,Rajasthan,1,rice,0.16883874558195247
+May,Rajasthan,1,wheat,0.5169729975996165
+May,Rajasthan,1,dal,0.5825842098240458
+May,Meghalaya,1,rice,0.8128351911316203
+May,Meghalaya,1,wheat,0.3217939059843347
+May,Meghalaya,1,dal,0.4919139393005549
+Jun,Bihar,1,rice,0.6282296431711019
+Jun,Bihar,1,wheat,0.28296435265110037
+Jun,Bihar,1,dal,0.6073894075431745
+Jun,Maharashtra,1,rice,0.6962759419402407
+Jun,Maharashtra,1,wheat,0.5500584937523114
+Jun,Maharashtra,1,dal,0.5160789615479151
+Jun,Tamil Nadu,1,rice,0.8853923858383388
+Jun,Tamil Nadu,1,wheat,0.8122269035944194
+Jun,Tamil Nadu,1,dal,0.1373661256695394
+Jun,Rajasthan,1,rice,0.8018545248594627
+Jun,Rajasthan,1,wheat,0.7173227784727421
+Jun,Rajasthan,1,dal,0.3705732982959926
+Jun,Meghalaya,1,rice,0.7274482182301312
+Jun,Meghalaya,1,wheat,0.7258650073404311
+Jun,Meghalaya,1,dal,0.3623346647195226
+Jul,Bihar,1,rice,0.7327320141279855
+Jul,Bihar,1,wheat,0.30191844679670976
+Jul,Bihar,1,dal,0.36104285283103443
+Jul,Maharashtra,1,rice,0.3165675735175396
+Jul,Maharashtra,1,wheat,0.6827090156249596
+Jul,Maharashtra,1,dal,0.33479853182553954
+Jul,Tamil Nadu,1,rice,0.697568663510681
+Jul,Tamil Nadu,1,wheat,0.8279873424674861
+Jul,Tamil Nadu,1,dal,0.8038906145476048
+Jul,Rajasthan,1,rice,0.814250616609499
+Jul,Rajasthan,1,wheat,0.8855889054716617
+Jul,Rajasthan,1,dal,0.42505814378132073
+Jul,Meghalaya,1,rice,0.49776463411806965
+Jul,Meghalaya,1,wheat,0.7497097647203452
+Jul,Meghalaya,1,dal,0.7863774552059509
+Aug,Bihar,1,rice,0.7262067872599963
+Aug,Bihar,1,wheat,0.3608187900644766
+Aug,Bihar,1,dal,0.33567761005755553
+Aug,Maharashtra,1,rice,0.23900274839603583
+Aug,Maharashtra,1,wheat,0.5948711533289095
+Aug,Maharashtra,1,dal,0.4778592122247021
+Aug,Tamil Nadu,1,rice,0.4077142001164694
+Aug,Tamil Nadu,1,wheat,0.4648356709200886
+Aug,Tamil Nadu,1,dal,0.6860971771379164
+Aug,Rajasthan,1,rice,0.7409687299291663
+Aug,Rajasthan,1,wheat,0.29449935245947045
+Aug,Rajasthan,1,dal,0.647215431992658
+Aug,Meghalaya,1,rice,0.11505703076417433
+Aug,Meghalaya,1,wheat,0.6331302389090674
+Aug,Meghalaya,1,dal,0.1890707827752895
+Sep,Bihar,1,rice,0.6597580416272143
+Sep,Bihar,1,wheat,0.30896726238175914
+Sep,Bihar,1,dal,0.5144473384734132
+Sep,Maharashtra,1,rice,0.08956580328880095
+Sep,Maharashtra,1,wheat,0.5538796547267522
+Sep,Maharashtra,1,dal,0.6421976301902204
+Sep,Tamil Nadu,1,rice,0.6397693766010979
+Sep,Tamil Nadu,1,wheat,0.2265728007308161
+Sep,Tamil Nadu,1,dal,0.29075470767607764
+Sep,Rajasthan,1,rice,0.14779909193520616
+Sep,Rajasthan,1,wheat,0.12105385383558923
+Sep,Rajasthan,1,dal,0.8753823583931902
+Sep,Meghalaya,1,rice,0.5035101409498136
+Sep,Meghalaya,1,wheat,0.3291001376832441
+Sep,Meghalaya,1,dal,0.7077715477551463
+Oct,Bihar,1,rice,0.05031498133687358
+Oct,Bihar,1,wheat,0.6181482219740815
+Oct,Bihar,1,dal,0.21453895266363607
+Oct,Maharashtra,1,rice,0.7041621293851074
+Oct,Maharashtra,1,wheat,0.562288184386328
+Oct,Maharashtra,1,dal,0.21936637840175102
+Oct,Tamil Nadu,1,rice,0.624882312705246
+Oct,Tamil Nadu,1,wheat,0.4142438393883383
+Oct,Tamil Nadu,1,dal,0.3339058682735604
+Oct,Rajasthan,1,rice,0.7621401038594079
+Oct,Rajasthan,1,wheat,0.4329378582488542
+Oct,Rajasthan,1,dal,0.6719170195225087
+Oct,Meghalaya,1,rice,0.3179364618372917
+Oct,Meghalaya,1,wheat,0.3637400611717294
+Oct,Meghalaya,1,dal,0.8650577214989056
+Nov,Bihar,1,rice,0.5418349348417438
+Nov,Bihar,1,wheat,0.38989263436448623
+Nov,Bihar,1,dal,0.5283076206707467
+Nov,Maharashtra,1,rice,0.5413360371045299
+Nov,Maharashtra,1,wheat,0.5001992621557357
+Nov,Maharashtra,1,dal,0.06630438248830754
+Nov,Tamil Nadu,1,rice,0.47365683601576664
+Nov,Tamil Nadu,1,wheat,0.479696464961669
+Nov,Tamil Nadu,1,dal,0.707084060308791
+Nov,Rajasthan,1,rice,0.5107908630939508
+Nov,Rajasthan,1,wheat,0.5206635975685173
+Nov,Rajasthan,1,dal,0.4109589699602524
+Nov,Meghalaya,1,rice,0.23852314057177404
+Nov,Meghalaya,1,wheat,0.5705713424704639
+Nov,Meghalaya,1,dal,0.7782718393617464
+Dec,Bihar,1,rice,0.7324232044897432
+Dec,Bihar,1,wheat,0.49940611883213887
+Dec,Bihar,1,dal,0.340666863775422
+Dec,Maharashtra,1,rice,0.4365955054401825
+Dec,Maharashtra,1,wheat,0.5353968012930603
+Dec,Maharashtra,1,dal,0.5083286124867809
+Dec,Tamil Nadu,1,rice,0.5136393923513842
+Dec,Tamil Nadu,1,wheat,0.7172041081233542
+Dec,Tamil Nadu,1,dal,0.5289063622505801
+Dec,Rajasthan,1,rice,0.49064010306317374
+Dec,Rajasthan,1,wheat,0.3230119545301939
+Dec,Rajasthan,1,dal,0.5718357815872671
+Dec,Meghalaya,1,rice,0.5242552305889383
+Dec,Meghalaya,1,wheat,0.35981360676759166
+Dec,Meghalaya,1,dal,0.6567991843589537
+Jan,Bihar,2,rice,0.24820147926222902
+Jan,Bihar,2,wheat,0.1581709938913811
+Jan,Bihar,2,dal,0.8130380711627018
+Jan,Maharashtra,2,rice,0.749342320665053
+Jan,Maharashtra,2,wheat,0.7320936010129887
+Jan,Maharashtra,2,dal,0.46277327982695116
+Jan,Tamil Nadu,2,rice,0.8360734596918376
+Jan,Tamil Nadu,2,wheat,0.35656148273849725
+Jan,Tamil Nadu,2,dal,0.3333979871281175
+Jan,Rajasthan,2,rice,0.31141128991791783
+Jan,Rajasthan,2,wheat,0.29594760821634664
+Jan,Rajasthan,2,dal,0.3208965725260586
+Jan,Meghalaya,2,rice,0.41354611354308024
+Jan,Meghalaya,2,wheat,0.5266056153097565
+Jan,Meghalaya,2,dal,0.39996695552535033
+Feb,Bihar,2,rice,0.6043475669535812
+Feb,Bihar,2,wheat,0.35898834729133755
+Feb,Bihar,2,dal,0.6639546850398611
+Feb,Maharashtra,2,rice,0.5653826394735502
+Feb,Maharashtra,2,wheat,0.6983110310950384
+Feb,Maharashtra,2,dal,0.8225818900467738
+Feb,Tamil Nadu,2,rice,0.2847393712105101
+Feb,Tamil Nadu,2,wheat,0.6763000714597152
+Feb,Tamil Nadu,2,dal,0.2722369207479273
+Feb,Rajasthan,2,rice,0.4279344874674733
+Feb,Rajasthan,2,wheat,0.27786867458836356
+Feb,Rajasthan,2,dal,0.723643131687072
+Feb,Meghalaya,2,rice,0.5979135317482239
+Feb,Meghalaya,2,wheat,0.796749962222999
+Feb,Meghalaya,2,dal,0.7434756437133119
+Mar,Bihar,2,rice,0.4352330343572186
+Mar,Bihar,2,wheat,0.5625586100515405
+Mar,Bihar,2,dal,0.2981085260586773
+Mar,Maharashtra,2,rice,0.3270812856717932
+Mar,Maharashtra,2,wheat,0.4731430958589332
+Mar,Maharashtra,2,dal,0.5433169003484087
+Mar,Tamil Nadu,2,rice,0.6750727127591931
+Mar,Tamil Nadu,2,wheat,0.7517769803471139
+Mar,Tamil Nadu,2,dal,0.7046025633549574
+Mar,Rajasthan,2,rice,0.7318691002133616
+Mar,Rajasthan,2,wheat,0.5473438536027727
+Mar,Rajasthan,2,dal,0.725843657020451
+Mar,Meghalaya,2,rice,0.6641588975806167
+Mar,Meghalaya,2,wheat,0.5995046595029752
+Mar,Meghalaya,2,dal,0.7090817895881413
+Apr,Bihar,2,rice,0.6713932852073071
+Apr,Bihar,2,wheat,0.23168420690665661
+Apr,Bihar,2,dal,0.29108078908008445
+Apr,Maharashtra,2,rice,0.18042193422960698
+Apr,Maharashtra,2,wheat,0.2946956272674654
+Apr,Maharashtra,2,dal,0.5211671064220254
+Apr,Tamil Nadu,2,rice,0.8805108192724791
+Apr,Tamil Nadu,2,wheat,0.703303977782771
+Apr,Tamil Nadu,2,dal,0.5197406102069433
+Apr,Rajasthan,2,rice,0.4781582363723468
+Apr,Rajasthan,2,wheat,0.49965467035671707
+Apr,Rajasthan,2,dal,0.502394073774113
+Apr,Meghalaya,2,rice,0.7304255372523664
+Apr,Meghalaya,2,wheat,0.6616735288477696
+Apr,Meghalaya,2,dal,0.11441693584800275
+May,Bihar,2,rice,0.9037744974482896
+May,Bihar,2,wheat,0.7248493733778317
+May,Bihar,2,dal,0.8613264884638036
+May,Maharashtra,2,rice,0.2304273405650484
+May,Maharashtra,2,wheat,0.8405086446373633
+May,Maharashtra,2,dal,0.5899516160161193
+May,Tamil Nadu,2,rice,0.6051091382323456
+May,Tamil Nadu,2,wheat,0.6726676074069705
+May,Tamil Nadu,2,dal,0.2313874754700842
+May,Rajasthan,2,rice,0.37434233613500856
+May,Rajasthan,2,wheat,0.3168414036984244
+May,Rajasthan,2,dal,0.7610710449741324
+May,Meghalaya,2,rice,0.6733947837626657
+May,Meghalaya,2,wheat,0.8781532491800663
+May,Meghalaya,2,dal,0.305647800678819
+Jun,Bihar,2,rice,0.6318079410528864
+Jun,Bihar,2,wheat,0.4749180219327379
+Jun,Bihar,2,dal,0.27986638138561176
+Jun,Maharashtra,2,rice,0.6740285198003207
+Jun,Maharashtra,2,wheat,0.4668586547761382
+Jun,Maharashtra,2,dal,0.3559199773710349
+Jun,Tamil Nadu,2,rice,0.5762720476043695
+Jun,Tamil Nadu,2,wheat,0.6748563820299927
+Jun,Tamil Nadu,2,dal,0.3643975266053129
+Jun,Rajasthan,2,rice,0.5175950409289533
+Jun,Rajasthan,2,wheat,0.16407484995442972
+Jun,Rajasthan,2,dal,0.4124789299911452
+Jun,Meghalaya,2,rice,0.6349306266624045
+Jun,Meghalaya,2,wheat,0.5975249635925132
+Jun,Meghalaya,2,dal,0.35606094531440635
+Jul,Bihar,2,rice,0.24891829588175654
+Jul,Bihar,2,wheat,0.3606239597829833
+Jul,Bihar,2,dal,0.4191224413489405
+Jul,Maharashtra,2,rice,0.4947825011119031
+Jul,Maharashtra,2,wheat,0.5896031505905638
+Jul,Maharashtra,2,dal,0.5315013534443169
+Jul,Tamil Nadu,2,rice,0.5223851151102686
+Jul,Tamil Nadu,2,wheat,0.35294733143364504
+Jul,Tamil Nadu,2,dal,0.4444572011974873
+Jul,Rajasthan,2,rice,0.2585518318275417
+Jul,Rajasthan,2,wheat,0.5270108029855187
+Jul,Rajasthan,2,dal,0.19881570310217106
+Jul,Meghalaya,2,rice,0.8027095681662794
+Jul,Meghalaya,2,wheat,0.43842689262338147
+Jul,Meghalaya,2,dal,0.46612627589552036
+Aug,Bihar,2,rice,0.5216730847406646
+Aug,Bihar,2,wheat,0.3653960634489496
+Aug,Bihar,2,dal,0.5529626192106906
+Aug,Maharashtra,2,rice,0.32963545485392753
+Aug,Maharashtra,2,wheat,0.264019308391597
+Aug,Maharashtra,2,dal,0.19468136866773972
+Aug,Tamil Nadu,2,rice,0.2965228310876857
+Aug,Tamil Nadu,2,wheat,0.28414259564048916
+Aug,Tamil Nadu,2,dal,0.37888379407414174
+Aug,Rajasthan,2,rice,0.3834211275986399
+Aug,Rajasthan,2,wheat,0.5516699231876615
+Aug,Rajasthan,2,dal,0.3727382567816627
+Aug,Meghalaya,2,rice,0.4185868784118703
+Aug,Meghalaya,2,wheat,0.2582131629955224
+Aug,Meghalaya,2,dal,0.3274053816692692
+Sep,Bihar,2,rice,0.1483896444698763
+Sep,Bihar,2,wheat,0.661795908497517
+Sep,Bihar,2,dal,0.27256503011690475
+Sep,Maharashtra,2,rice,0.5173589769867577
+Sep,Maharashtra,2,wheat,0.2304970788061219
+Sep,Maharashtra,2,dal,0.5435950856296207
+Sep,Tamil Nadu,2,rice,0.5816979760096671
+Sep,Tamil Nadu,2,wheat,0.6368513791389345
+Sep,Tamil Nadu,2,dal,0.1125136719693512
+Sep,Rajasthan,2,rice,0.42650319998136993
+Sep,Rajasthan,2,wheat,0.5675615123552697
+Sep,Rajasthan,2,dal,0.3009459801546675
+Sep,Meghalaya,2,rice,0.630825646534625
+Sep,Meghalaya,2,wheat,0.8118228033515044
+Sep,Meghalaya,2,dal,0.38942254859676717
+Oct,Bihar,2,rice,0.38300661633852745
+Oct,Bihar,2,wheat,0.39695358787662477
+Oct,Bihar,2,dal,0.4464623525645623
+Oct,Maharashtra,2,rice,0.10998895427031088
+Oct,Maharashtra,2,wheat,0.6355855251757998
+Oct,Maharashtra,2,dal,0.3074627581367644
+Oct,Tamil Nadu,2,rice,0.2634706731912992
+Oct,Tamil Nadu,2,wheat,0.550159724832137
+Oct,Tamil Nadu,2,dal,0.3064503973368998
+Oct,Rajasthan,2,rice,0.9080167158343118
+Oct,Rajasthan,2,wheat,0.3775198967238855
+Oct,Rajasthan,2,dal,0.23380417416942745
+Oct,Meghalaya,2,rice,0.2910604255459538
+Oct,Meghalaya,2,wheat,0.280867889092048
+Oct,Meghalaya,2,dal,0.5817260412523307
+Nov,Bihar,2,rice,0.33738544602804
+Nov,Bihar,2,wheat,0.5313908104923861
+Nov,Bihar,2,dal,0.4860189303187027
+Nov,Maharashtra,2,rice,0.796189574574115
+Nov,Maharashtra,2,wheat,0.48860073342013033
+Nov,Maharashtra,2,dal,0.4848806873893559
+Nov,Tamil Nadu,2,rice,0.5596208341654503
+Nov,Tamil Nadu,2,wheat,0.5294401266509094
+Nov,Tamil Nadu,2,dal,0.47513181924090153
+Nov,Rajasthan,2,rice,0.4614932458831338
+Nov,Rajasthan,2,wheat,0.49463845546790486
+Nov,Rajasthan,2,dal,0.5058832729887487
+Nov,Meghalaya,2,rice,0.8787718955172918
+Nov,Meghalaya,2,wheat,0.674220273862922
+Nov,Meghalaya,2,dal,0.6407039663476262
+Dec,Bihar,2,rice,0.5925972114574696
+Dec,Bihar,2,wheat,0.7085387662577323
+Dec,Bihar,2,dal,0.2073596747861292
+Dec,Maharashtra,2,rice,0.3143114469809054
+Dec,Maharashtra,2,wheat,0.7168413224159363
+Dec,Maharashtra,2,dal,0.24653827165908204
+Dec,Tamil Nadu,2,rice,0.24281660760248888
+Dec,Tamil Nadu,2,wheat,0.5482542002157419
+Dec,Tamil Nadu,2,dal,0.8160870522488026
+Dec,Rajasthan,2,rice,0.8195691003420454
+Dec,Rajasthan,2,wheat,0.615361168750911
+Dec,Rajasthan,2,dal,0.4829514754329198
+Dec,Meghalaya,2,rice,0.33452614900404676
+Dec,Meghalaya,2,wheat,0.10898405361338435
+Dec,Meghalaya,2,dal,0.3469732605136237
+Jan,Bihar,3,rice,0.31218685885878006
+Jan,Bihar,3,wheat,0.5331919157714641
+Jan,Bihar,3,dal,0.45717592796872975
+Jan,Maharashtra,3,rice,0.15589513458488025
+Jan,Maharashtra,3,wheat,0.39412941347631375
+Jan,Maharashtra,3,dal,0.5531625007625401
+Jan,Tamil Nadu,3,rice,0.466238403073594
+Jan,Tamil Nadu,3,wheat,0.1467606548175633
+Jan,Tamil Nadu,3,dal,0.5622626878699742
+Jan,Rajasthan,3,rice,0.4993390598011579
+Jan,Rajasthan,3,wheat,0.7309967263449313
+Jan,Rajasthan,3,dal,0.6485849192573434
+Jan,Meghalaya,3,rice,0.8031105106631776
+Jan,Meghalaya,3,wheat,0.47482610208996295
+Jan,Meghalaya,3,dal,0.7609715990804176
+Feb,Bihar,3,rice,0.8521272662499539
+Feb,Bihar,3,wheat,0.6331742797553276
+Feb,Bihar,3,dal,0.5881703845300759
+Feb,Maharashtra,3,rice,0.12789031280534288
+Feb,Maharashtra,3,wheat,0.6319008459014109
+Feb,Maharashtra,3,dal,0.7220574398657492
+Feb,Tamil Nadu,3,rice,0.586898479665993
+Feb,Tamil Nadu,3,wheat,0.22910911589289107
+Feb,Tamil Nadu,3,dal,0.6665697140533817
+Feb,Rajasthan,3,rice,0.764236824941242
+Feb,Rajasthan,3,wheat,0.5478584187205519
+Feb,Rajasthan,3,dal,0.3857144428427119
+Feb,Meghalaya,3,rice,0.3101655799451327
+Feb,Meghalaya,3,wheat,0.6786264933827197
+Feb,Meghalaya,3,dal,0.5372825337694188
+Mar,Bihar,3,rice,0.13027101777456943
+Mar,Bihar,3,wheat,0.3266065939403783
+Mar,Bihar,3,dal,0.3830976278130442
+Mar,Maharashtra,3,rice,0.3241847182657123
+Mar,Maharashtra,3,wheat,0.39562652406987553
+Mar,Maharashtra,3,dal,0.6398246378419995
+Mar,Tamil Nadu,3,rice,0.4945336471569647
+Mar,Tamil Nadu,3,wheat,0.478697234248641
+Mar,Tamil Nadu,3,dal,0.21739812554097934
+Mar,Rajasthan,3,rice,0.2204776499538805
+Mar,Rajasthan,3,wheat,0.6901393798021613
+Mar,Rajasthan,3,dal,0.41275152249800956
+Mar,Meghalaya,3,rice,0.24066537805202012
+Mar,Meghalaya,3,wheat,0.943088111161822
+Mar,Meghalaya,3,dal,0.6306361859390403
+Apr,Bihar,3,rice,0.8326895713517546
+Apr,Bihar,3,wheat,0.31145342486531463
+Apr,Bihar,3,dal,0.36115681067845123
+Apr,Maharashtra,3,rice,0.5229226002344745
+Apr,Maharashtra,3,wheat,0.44133479203838755
+Apr,Maharashtra,3,dal,0.7591076985777725
+Apr,Tamil Nadu,3,rice,0.25204819268435075
+Apr,Tamil Nadu,3,wheat,0.37885990076122306
+Apr,Tamil Nadu,3,dal,0.5688606389078885
+Apr,Rajasthan,3,rice,0.33388743052877273
+Apr,Rajasthan,3,wheat,0.8228969505140006
+Apr,Rajasthan,3,dal,0.19345515649132122
+Apr,Meghalaya,3,rice,0.6713979983994359
+Apr,Meghalaya,3,wheat,0.3464836849418153
+Apr,Meghalaya,3,dal,0.4062996786519174
+May,Bihar,3,rice,0.08712828430221464
+May,Bihar,3,wheat,0.6495272147348244
+May,Bihar,3,dal,0.638450329681838
+May,Maharashtra,3,rice,0.5261763701120135
+May,Maharashtra,3,wheat,0.6124765992390258
+May,Maharashtra,3,dal,0.3256926434851051
+May,Tamil Nadu,3,rice,0.8718390936187886
+May,Tamil Nadu,3,wheat,0.7261925676564723
+May,Tamil Nadu,3,dal,0.2533668674122285
+May,Rajasthan,3,rice,0.7092266040312519
+May,Rajasthan,3,wheat,0.623934615963697
+May,Rajasthan,3,dal,0.720655016758148
+May,Meghalaya,3,rice,0.29621722568048386
+May,Meghalaya,3,wheat,0.8568823380056868
+May,Meghalaya,3,dal,0.6726870948600093
+Jun,Bihar,3,rice,0.3775187464783886
+Jun,Bihar,3,wheat,0.28354828707799407
+Jun,Bihar,3,dal,0.6486454878349253
+Jun,Maharashtra,3,rice,0.2835264016598565
+Jun,Maharashtra,3,wheat,0.5889791121465464
+Jun,Maharashtra,3,dal,0.48360108660730355
+Jun,Tamil Nadu,3,rice,0.7869855260880472
+Jun,Tamil Nadu,3,wheat,0.41362368830927493
+Jun,Tamil Nadu,3,dal,0.4812124176868303
+Jun,Rajasthan,3,rice,0.30556860718042583
+Jun,Rajasthan,3,wheat,0.6442733635868156
+Jun,Rajasthan,3,dal,0.6073361418878859
+Jun,Meghalaya,3,rice,0.2372305197115769
+Jun,Meghalaya,3,wheat,0.48605101771858084
+Jun,Meghalaya,3,dal,0.5776685680149926
+Jul,Bihar,3,rice,0.4046757272203905
+Jul,Bihar,3,wheat,0.5292919839394955
+Jul,Bihar,3,dal,0.4070268842015713
+Jul,Maharashtra,3,rice,0.7734159643285329
+Jul,Maharashtra,3,wheat,0.6649660077144749
+Jul,Maharashtra,3,dal,0.3242947662335721
+Jul,Tamil Nadu,3,rice,0.8319959220473481
+Jul,Tamil Nadu,3,wheat,0.27509503314756006
+Jul,Tamil Nadu,3,dal,0.7952578011345052
+Jul,Rajasthan,3,rice,0.5891534195603332
+Jul,Rajasthan,3,wheat,0.6235234961245525
+Jul,Rajasthan,3,dal,0.6090553501709692
+Jul,Meghalaya,3,rice,0.5039324806794648
+Jul,Meghalaya,3,wheat,0.2249228726897037
+Jul,Meghalaya,3,dal,0.07833474091092868
+Aug,Bihar,3,rice,0.3667339833266439
+Aug,Bihar,3,wheat,0.3039458106749365
+Aug,Bihar,3,dal,0.5661935954801687
+Aug,Maharashtra,3,rice,0.6550106775176182
+Aug,Maharashtra,3,wheat,0.756151341816058
+Aug,Maharashtra,3,dal,0.23404176153536407
+Aug,Tamil Nadu,3,rice,0.2519003952616852
+Aug,Tamil Nadu,3,wheat,0.2915579202637298
+Aug,Tamil Nadu,3,dal,0.30549031962915163
+Aug,Rajasthan,3,rice,0.3026109806968442
+Aug,Rajasthan,3,wheat,0.4786133079776662
+Aug,Rajasthan,3,dal,0.6324541612833532
+Aug,Meghalaya,3,rice,0.5981020668654341
+Aug,Meghalaya,3,wheat,0.6771926290632787
+Aug,Meghalaya,3,dal,0.3884397926180481
+Sep,Bihar,3,rice,0.8520532873143036
+Sep,Bihar,3,wheat,0.32805858839558594
+Sep,Bihar,3,dal,0.21470748819276178
+Sep,Maharashtra,3,rice,0.7483982133054363
+Sep,Maharashtra,3,wheat,0.675121862020736
+Sep,Maharashtra,3,dal,0.589599600179209
+Sep,Tamil Nadu,3,rice,0.45741617682614066
+Sep,Tamil Nadu,3,wheat,0.7839972385118222
+Sep,Tamil Nadu,3,dal,0.3051362781223566
+Sep,Rajasthan,3,rice,0.43551773420822354
+Sep,Rajasthan,3,wheat,0.6076091508624033
+Sep,Rajasthan,3,dal,0.7792540640743437
+Sep,Meghalaya,3,rice,0.6368889101232984
+Sep,Meghalaya,3,wheat,0.6744175897289538
+Sep,Meghalaya,3,dal,0.34706060406740036
+Oct,Bihar,3,rice,0.8283667883746664
+Oct,Bihar,3,wheat,0.7727660495323154
+Oct,Bihar,3,dal,0.23834954435999187
+Oct,Maharashtra,3,rice,0.7774770844731865
+Oct,Maharashtra,3,wheat,0.7412675007402282
+Oct,Maharashtra,3,dal,0.6971233225173648
+Oct,Tamil Nadu,3,rice,0.2171560665214665
+Oct,Tamil Nadu,3,wheat,0.5774945441595143
+Oct,Tamil Nadu,3,dal,0.6268780029787446
+Oct,Rajasthan,3,rice,0.6246682866085687
+Oct,Rajasthan,3,wheat,0.4246777781513313
+Oct,Rajasthan,3,dal,0.5134761574236116
+Oct,Meghalaya,3,rice,0.8144180924307085
+Oct,Meghalaya,3,wheat,0.7789174053920843
+Oct,Meghalaya,3,dal,0.4854881929212343
+Nov,Bihar,3,rice,0.16876460793294726
+Nov,Bihar,3,wheat,0.5345434537560038
+Nov,Bihar,3,dal,0.388903867843461
+Nov,Maharashtra,3,rice,0.413342447005825
+Nov,Maharashtra,3,wheat,0.7563793935117661
+Nov,Maharashtra,3,dal,0.2988969257952672
+Nov,Tamil Nadu,3,rice,0.6719070421803613
+Nov,Tamil Nadu,3,wheat,0.35125608434188876
+Nov,Tamil Nadu,3,dal,0.37784649741033627
+Nov,Rajasthan,3,rice,0.28930859935184905
+Nov,Rajasthan,3,wheat,0.19306309689083437
+Nov,Rajasthan,3,dal,0.4394091064887175
+Nov,Meghalaya,3,rice,0.7361753538854091
+Nov,Meghalaya,3,wheat,0.518522434845529
+Nov,Meghalaya,3,dal,0.47610982850529043
+Dec,Bihar,3,rice,0.3699982287806795
+Dec,Bihar,3,wheat,0.23862275324535712
+Dec,Bihar,3,dal,0.41207573397781994
+Dec,Maharashtra,3,rice,0.6085176401397194
+Dec,Maharashtra,3,wheat,0.7359087140950678
+Dec,Maharashtra,3,dal,0.6968318678526889
+Dec,Tamil Nadu,3,rice,0.579506164572225
+Dec,Tamil Nadu,3,wheat,0.4712564053002632
+Dec,Tamil Nadu,3,dal,0.462286164783402
+Dec,Rajasthan,3,rice,0.718547146877978
+Dec,Rajasthan,3,wheat,0.36764121707519526
+Dec,Rajasthan,3,dal,0.5573238606772446
+Dec,Meghalaya,3,rice,0.5426181379786668
+Dec,Meghalaya,3,wheat,0.5807670461213058
+Dec,Meghalaya,3,dal,0.19968090230164973
+Jan,Bihar,4,rice,0.2097869332160556
+Jan,Bihar,4,wheat,0.46981734331924996
+Jan,Bihar,4,dal,0.5668875302090999
+Jan,Maharashtra,4,rice,0.6196936774766126
+Jan,Maharashtra,4,wheat,0.7776828722439256
+Jan,Maharashtra,4,dal,0.5989203900815129
+Jan,Tamil Nadu,4,rice,0.685386757627299
+Jan,Tamil Nadu,4,wheat,0.15276037001027507
+Jan,Tamil Nadu,4,dal,0.8870849644621278
+Jan,Rajasthan,4,rice,0.5147112429965103
+Jan,Rajasthan,4,wheat,0.47582639881247557
+Jan,Rajasthan,4,dal,0.27471724288578714
+Jan,Meghalaya,4,rice,0.6351583773042832
+Jan,Meghalaya,4,wheat,0.5654629115433526
+Jan,Meghalaya,4,dal,0.09206320388641545
+Feb,Bihar,4,rice,0.3710406435266943
+Feb,Bihar,4,wheat,0.49157504640991156
+Feb,Bihar,4,dal,0.8629704286687807
+Feb,Maharashtra,4,rice,0.44600103867510116
+Feb,Maharashtra,4,wheat,0.7146009596650358
+Feb,Maharashtra,4,dal,0.6593098656985306
+Feb,Tamil Nadu,4,rice,0.6637226222331577
+Feb,Tamil Nadu,4,wheat,0.6415244843727951
+Feb,Tamil Nadu,4,dal,0.386433518340934
+Feb,Rajasthan,4,rice,0.8693817007816541
+Feb,Rajasthan,4,wheat,0.2553308160546962
+Feb,Rajasthan,4,dal,0.5869885445544284
+Feb,Meghalaya,4,rice,0.7616989157043027
+Feb,Meghalaya,4,wheat,0.24958368224174907
+Feb,Meghalaya,4,dal,0.4815583430938116
+Mar,Bihar,4,rice,0.7768576459730256
+Mar,Bihar,4,wheat,0.5760121502675244
+Mar,Bihar,4,dal,0.7030187143225307
+Mar,Maharashtra,4,rice,0.8017258188996131
+Mar,Maharashtra,4,wheat,0.05847264823694048
+Mar,Maharashtra,4,dal,0.8835754781416864
+Mar,Tamil Nadu,4,rice,0.45477094833168913
+Mar,Tamil Nadu,4,wheat,0.5822492207684706
+Mar,Tamil Nadu,4,dal,0.38926418271174756
+Mar,Rajasthan,4,rice,0.8132460023897145
+Mar,Rajasthan,4,wheat,0.7236520622585626
+Mar,Rajasthan,4,dal,0.2935114951973689
+Mar,Meghalaya,4,rice,0.21991722357059024
+Mar,Meghalaya,4,wheat,0.3951561353184905
+Mar,Meghalaya,4,dal,0.3972138690212629
+Apr,Bihar,4,rice,0.6082449121018478
+Apr,Bihar,4,wheat,0.8991215039278985
+Apr,Bihar,4,dal,0.5125117638361208
+Apr,Maharashtra,4,rice,0.4003673371736613
+Apr,Maharashtra,4,wheat,0.3871969470479971
+Apr,Maharashtra,4,dal,0.5141425149988323
+Apr,Tamil Nadu,4,rice,0.7903890132806662
+Apr,Tamil Nadu,4,wheat,0.7198759734895888
+Apr,Tamil Nadu,4,dal,0.6584701301068278
+Apr,Rajasthan,4,rice,0.34663868320734353
+Apr,Rajasthan,4,wheat,0.32167037013159444
+Apr,Rajasthan,4,dal,0.746151388241701
+Apr,Meghalaya,4,rice,0.7201791021621539
+Apr,Meghalaya,4,wheat,0.7484437792006432
+Apr,Meghalaya,4,dal,0.5077207853651351
+May,Bihar,4,rice,0.6020025176363217
+May,Bihar,4,wheat,0.4916440812824689
+May,Bihar,4,dal,0.7254052818365008
+May,Maharashtra,4,rice,0.3073295095209641
+May,Maharashtra,4,wheat,0.3675507424730986
+May,Maharashtra,4,dal,0.44676976765411913
+May,Tamil Nadu,4,rice,0.3893792138688973
+May,Tamil Nadu,4,wheat,0.21177385889392886
+May,Tamil Nadu,4,dal,0.8815494198613171
+May,Rajasthan,4,rice,0.36160871118878346
+May,Rajasthan,4,wheat,0.4072665880728887
+May,Rajasthan,4,dal,0.41227538368085404
+May,Meghalaya,4,rice,0.4952799073289974
+May,Meghalaya,4,wheat,0.36341994922472326
+May,Meghalaya,4,dal,0.4872743465261116
+Jun,Bihar,4,rice,0.3964178219153875
+Jun,Bihar,4,wheat,0.6637770347000286
+Jun,Bihar,4,dal,0.6712625527795832
+Jun,Maharashtra,4,rice,0.17935534052241256
+Jun,Maharashtra,4,wheat,0.7219706016788384
+Jun,Maharashtra,4,dal,0.40573739704294315
+Jun,Tamil Nadu,4,rice,0.620960205442807
+Jun,Tamil Nadu,4,wheat,0.7429595710525531
+Jun,Tamil Nadu,4,dal,0.42798609503193774
+Jun,Rajasthan,4,rice,0.82727173739084
+Jun,Rajasthan,4,wheat,0.12195461760705943
+Jun,Rajasthan,4,dal,0.502396391984398
+Jun,Meghalaya,4,rice,0.47994398536563837
+Jun,Meghalaya,4,wheat,0.3341019273321198
+Jun,Meghalaya,4,dal,0.550856567357086
+Jul,Bihar,4,rice,0.4394522482612589
+Jul,Bihar,4,wheat,0.5866398081285239
+Jul,Bihar,4,dal,0.4342838898603745
+Jul,Maharashtra,4,rice,0.6253725837739542
+Jul,Maharashtra,4,wheat,0.4204750825794692
+Jul,Maharashtra,4,dal,0.23051916223541621
+Jul,Tamil Nadu,4,rice,0.3510778287476939
+Jul,Tamil Nadu,4,wheat,0.42033530208285447
+Jul,Tamil Nadu,4,dal,0.3236902944522523
+Jul,Rajasthan,4,rice,0.47683287351069525
+Jul,Rajasthan,4,wheat,0.5257312429039258
+Jul,Rajasthan,4,dal,0.5857759792671102
+Jul,Meghalaya,4,rice,0.5408785860903985
+Jul,Meghalaya,4,wheat,0.3340956550629554
+Jul,Meghalaya,4,dal,0.6582833407183541
+Aug,Bihar,4,rice,0.4957549734909298
+Aug,Bihar,4,wheat,0.6043951831765386
+Aug,Bihar,4,dal,0.5123218249276935
+Aug,Maharashtra,4,rice,0.8069446297228253
+Aug,Maharashtra,4,wheat,0.5926187944928946
+Aug,Maharashtra,4,dal,0.5100887836411933
+Aug,Tamil Nadu,4,rice,0.7562256272207967
+Aug,Tamil Nadu,4,wheat,0.8041915342755126
+Aug,Tamil Nadu,4,dal,0.13333270150426285
+Aug,Rajasthan,4,rice,0.66335336829738
+Aug,Rajasthan,4,wheat,0.39174288904791377
+Aug,Rajasthan,4,dal,0.4546639089971589
+Aug,Meghalaya,4,rice,0.5709988512313985
+Aug,Meghalaya,4,wheat,0.2666766532703292
+Aug,Meghalaya,4,dal,0.5559088567283171
+Sep,Bihar,4,rice,0.2986137042283261
+Sep,Bihar,4,wheat,0.4842006101639602
+Sep,Bihar,4,dal,0.5472126422206841
+Sep,Maharashtra,4,rice,0.14817565138589273
+Sep,Maharashtra,4,wheat,0.8691059000987736
+Sep,Maharashtra,4,dal,0.5272232762000045
+Sep,Tamil Nadu,4,rice,0.5792553805624547
+Sep,Tamil Nadu,4,wheat,0.6570246690640149
+Sep,Tamil Nadu,4,dal,0.6723914632892712
+Sep,Rajasthan,4,rice,0.6076390588602048
+Sep,Rajasthan,4,wheat,0.3369508380778063
+Sep,Rajasthan,4,dal,0.32528190764198145
+Sep,Meghalaya,4,rice,0.1024808733686153
+Sep,Meghalaya,4,wheat,0.9033468767069278
+Sep,Meghalaya,4,dal,0.7327405831297285
+Oct,Bihar,4,rice,0.62882379798874
+Oct,Bihar,4,wheat,0.60977850168296
+Oct,Bihar,4,dal,0.3056011376376977
+Oct,Maharashtra,4,rice,0.7386880505244399
+Oct,Maharashtra,4,wheat,0.3983166898632024
+Oct,Maharashtra,4,dal,0.5625748412479008
+Oct,Tamil Nadu,4,rice,0.33200391520122396
+Oct,Tamil Nadu,4,wheat,0.2801383372046942
+Oct,Tamil Nadu,4,dal,0.21553979583085184
+Oct,Rajasthan,4,rice,0.5792529012184613
+Oct,Rajasthan,4,wheat,0.5009900467267909
+Oct,Rajasthan,4,dal,0.7670505061170061
+Oct,Meghalaya,4,rice,0.0792412631070151
+Oct,Meghalaya,4,wheat,0.5839163409687461
+Oct,Meghalaya,4,dal,0.40218585201879975
+Nov,Bihar,4,rice,0.2112776622446483
+Nov,Bihar,4,wheat,0.4763396176783084
+Nov,Bihar,4,dal,0.6213733874129153
+Nov,Maharashtra,4,rice,0.18697580629834668
+Nov,Maharashtra,4,wheat,0.6127039556607096
+Nov,Maharashtra,4,dal,0.5601763256892803
+Nov,Tamil Nadu,4,rice,0.7945039264360764
+Nov,Tamil Nadu,4,wheat,0.7074620934257704
+Nov,Tamil Nadu,4,dal,0.7292996383872641
+Nov,Rajasthan,4,rice,0.5690979328031456
+Nov,Rajasthan,4,wheat,0.4759858771797908
+Nov,Rajasthan,4,dal,0.47069685599458333
+Nov,Meghalaya,4,rice,0.6284735097050015
+Nov,Meghalaya,4,wheat,0.72056044201145
+Nov,Meghalaya,4,dal,0.7823693174822374
+Dec,Bihar,4,rice,0.6447922915865195
+Dec,Bihar,4,wheat,0.7172831978555277
+Dec,Bihar,4,dal,0.5208312871807286
+Dec,Maharashtra,4,rice,0.3704182449443539
+Dec,Maharashtra,4,wheat,0.5827548024357373
+Dec,Maharashtra,4,dal,0.653712354589591
+Dec,Tamil Nadu,4,rice,0.6964783485226337
+Dec,Tamil Nadu,4,wheat,0.4526884160745535
+Dec,Tamil Nadu,4,dal,0.883868877372261
+Dec,Rajasthan,4,rice,0.20554529343799116
+Dec,Rajasthan,4,wheat,0.3163107057701065
+Dec,Rajasthan,4,dal,0.562761327313052
+Dec,Meghalaya,4,rice,0.12392482069951524
+Dec,Meghalaya,4,wheat,0.22874610783838917
+Dec,Meghalaya,4,dal,0.6553823568250304
